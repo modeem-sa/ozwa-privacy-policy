@@ -1,6 +1,6 @@
 # سياسة الخصوصية لتطبيق عزوة
 
-تاريخ آخر تحديث: 17 سبتمبر 2026
+تاريخ آخر تحديث: 24 سبتمبر 2026
 
 توضح سياسة الخصوصية هذه كيفية جمع واستخدام وحماية البيانات عند استخدام تطبيق **عزوة**.
 
@@ -23,11 +23,22 @@
 ### بيانات الحساب
 
 - الاسم.
+- رقم الهوية الوطنية.
 - رقم الجوال.
 - البريد الإلكتروني.
 - كلمة المرور بشكل آمن عبر أنظمة المصادقة.
 - نوع الحساب: كافل أو يتيم.
 - بيانات تسجيل الدخول والجلسة.
+
+### رقم الهوية الوطنية والغرض من جمعه
+
+يُعد رقم الهوية الوطنية حقلًا إلزاميًا عند إنشاء حساب مسجل في تطبيق عزوة، ويُجمع مباشرة من المستخدم للأغراض المرتبطة بالخدمة فقط، وذلك على النحو التالي:
+
+- **لحساب الكافل أو المتبرع:** يُستخدم لتمييز الحساب بصورة فريدة، والحد من التسجيلات والحسابات المكررة أو غير الصحيحة، وربط المساهمات والتبرعات والكفالات والإيصالات والتقارير وسجل الحساب بالشخص الصحيح.
+- **لحساب اليتيم أو المستفيد:** يُستخدم لتمييز سجل المستفيد، والحد من الطلبات المكررة، وربط الحساب بطلبات التسجيل والكفالات والتقارير التي تراجعها الجهة المختصة.
+- يُستخدم رقم الهوية أيضًا كمعرّف لتسجيل الدخول إلى الحساب وفق آلية المصادقة المعتمدة في التطبيق.
+
+لا يُستخدم رقم الهوية الوطنية لأغراض الإعلانات أو التتبع أو التسويق، ولا يتم بيعه لأي طرف ثالث. ولا يدّعي التطبيق إجراء تحقق حكومي عبر أبشر أو نفاذ ما لم يتم تفعيل تكامل رسمي مع إحدى خدمات الهوية الرقمية المعتمدة.
 
 ### بيانات الكافل والتبرعات
 
@@ -76,7 +87,9 @@
 نستخدم البيانات للأغراض التالية:
 
 - إنشاء الحساب وتسجيل الدخول.
-- التحقق من هوية المستخدم وإدارة الجلسة.
+- تمييز حساب المستخدم وربطه بسجلاته وإدارة الجلسة.
+- الحد من الحسابات والطلبات المكررة أو غير الصحيحة.
+- ربط التبرعات والكفالات والإيصالات والتقارير بالحساب الصحيح.
 - عرض فرص الكفالة والتبرع والحملات.
 - تنفيذ ومتابعة الكفالات والمساهمات.
 - عرض الطلبات والإيصالات والتقارير.
@@ -123,6 +136,8 @@
 - مزودو الدفع أو معالجة التبرعات عند استخدام بوابات دفع خارجية.
 - الجهات النظامية عند وجود طلب قانوني أو التزام نظامي.
 
+لا تتم مشاركة رقم الهوية الوطنية إلا بالقدر اللازم لإدارة الحساب وربط السجلات وتنفيذ الخدمات، أو عند وجود التزام أو طلب نظامي.
+
 لا نبيع بيانات المستخدمين الشخصية.
 
 ---
@@ -144,6 +159,8 @@
 ## 8. حفظ البيانات وحذفها
 
 يتم الاحتفاظ بالبيانات طالما كان ذلك ضروريًا لتقديم الخدمة أو الالتزام بالمتطلبات التشغيلية أو النظامية.
+
+يتم الاحتفاظ برقم الهوية الوطنية طوال فترة نشاط الحساب أو طوال المدة اللازمة لربط سجلات التبرعات والكفالات والإيصالات والطلبات، ثم يُحذف أو تُقيّد معالجته عند انتهاء الغرض، ما لم تتطلب الأنظمة الاحتفاظ ببعض السجلات لمدة أطول.
 
 يمكن للمستخدم طلب حذف الحساب من داخل التطبيق عند توفر الخيار. وقد يتم الاحتفاظ بالحساب لمدة تصل إلى 30 يومًا قبل الحذف النهائي للسماح باسترجاع الحساب أو معالجة أي التزامات مرتبطة به.
 
@@ -174,6 +191,8 @@
 - إيقاف الإشعارات من إعدادات الجهاز.
 - التواصل مع الدعم الفني بخصوص أي استفسار متعلق بالخصوصية.
 
+قبل إنشاء الحساب، يعرض التطبيق رابط هذه السياسة ويطلب من المستخدم الإقرار بقراءتها والموافقة عليها. ويمكن للمستخدم الامتناع عن إنشاء حساب والاستمرار في تصفح المحتوى العام المتاح من خلال الدخول كزائر دون إدخال رقم الهوية الوطنية.
+
 ---
 
 ## 11. خصوصية الأطفال
@@ -199,3 +218,226 @@
 - اسم الجهة المالكة: عزوة
 - البريد الإلكتروني: info@ozwa.sa
 - رابط الدعم الفني: https://ozwa.modeem.org.sa/contact
+
+---
+
+# OZWA App Privacy Policy
+
+Last updated: September 24, 2026
+
+This Privacy Policy explains how personal data is collected, used, and protected when using the **OZWA** application.
+
+The entity responsible for operating the application is **OZWA**.
+
+---
+
+## 1. Introduction
+
+OZWA is a digital platform that helps sponsors, donors, and registered orphans follow sponsorships, donations, requests, notifications, reports, and receipts related to charitable services.
+
+By using the application, you agree that your data may be processed in accordance with this Privacy Policy.
+
+---
+
+## 2. Data We May Collect
+
+The application may collect or process the following data depending on the account type and services used:
+
+### Account Data
+
+- Name.
+- National ID number.
+- Mobile number.
+- Email address.
+- Password, processed securely through the authentication systems.
+- Account type: sponsor or orphan.
+- Sign-in and session data.
+
+### National ID and the Purpose of Its Collection
+
+The National ID is a required field when creating a registered account in OZWA. It is collected directly from the user only for purposes connected to the service, as follows:
+
+- **For a sponsor or donor account:** It is used to uniquely distinguish the account, reduce duplicate or incorrect registrations and accounts, and associate contributions, donations, sponsorships, receipts, reports, and account history with the correct person.
+- **For an orphan or beneficiary account:** It is used to distinguish the beneficiary record, reduce duplicate requests, and associate the account with registration requests, sponsorships, and reports reviewed by the relevant organization.
+- The National ID is also used as an account sign-in identifier according to the authentication mechanism implemented in the application.
+
+The National ID is not used for advertising, tracking, or marketing, and it is not sold to any third party. The application does not claim to perform government identity verification through Absher or Nafath unless an official integration with an approved digital identity service is implemented.
+
+### Sponsor and Donation Data
+
+- Sponsor profile data.
+- Sponsorship opportunities viewed or selected.
+- Sponsorship history.
+- Contribution and donation history.
+- Requests, receipts, and reports associated with a sponsorship or donation.
+
+### Orphan Data
+
+- Profile data.
+- Mobile number.
+- School or education-level data, when provided.
+- Health status, needs, or required-support data, when provided.
+- Submitted requests and their status.
+- Sponsors associated with the account.
+- Available reports and updates.
+
+### Images and Attachments
+
+The application may request access to the camera or photo library when the user chooses to capture or attach an image to a request or account information.
+
+### Notification and Device Data
+
+- Firebase Cloud Messaging token.
+- Device or operating-system type.
+- Notification preferences.
+- Notification data required to display alerts or open the appropriate page in the application.
+
+### Technical Support Data
+
+- Support-request type.
+- Support message.
+- Request status.
+- Request creation date.
+
+### Technical Data
+
+Technical data necessary to operate the application and improve its stability may be processed, including server-connection data, network errors, and essential operational logs.
+
+---
+
+## 3. How We Use Data
+
+We use data for the following purposes:
+
+- Creating accounts and signing users in.
+- Distinguishing a user's account, associating it with their records, and managing sessions.
+- Reducing duplicate or incorrect accounts and requests.
+- Associating donations, sponsorships, receipts, and reports with the correct account.
+- Displaying sponsorship opportunities, donation opportunities, and campaigns.
+- Processing and following sponsorships and contributions.
+- Displaying requests, receipts, and reports.
+- Managing sponsor and orphan profiles.
+- Sending important notifications and alerts.
+- Receiving and processing technical-support requests.
+- Improving the security and stability of the application.
+- Meeting operational or legal requirements where necessary.
+
+---
+
+## 4. Notifications
+
+The application uses Firebase Cloud Messaging to send notifications.
+
+Notifications may relate to:
+
+- Request status.
+- Sponsorship updates.
+- Reports and receipts.
+- General alerts.
+- Technical-support messages or important updates.
+
+Users can control notification permissions through their device settings.
+
+---
+
+## 5. Camera and Photo Library
+
+The application requests camera or photo-library permission only when the user needs to capture or select an image to attach to a request or account information.
+
+The camera and photos are not accessed without the user's approval through the operating system's permission controls.
+
+---
+
+## 6. Data Sharing
+
+Data may be shared with the following parties only to the extent necessary to provide the service:
+
+- The entity that owns or operates OZWA.
+- Charitable organizations or institutions involved in managing sponsorships and requests.
+- Hosting, backend, and operational service providers.
+- Firebase and notification-service providers.
+- Payment or donation-processing providers when external payment gateways are used.
+- Regulatory or government authorities when required by law or a lawful request.
+
+The National ID is shared only to the extent necessary to manage the account, associate records, provide services, or comply with a legal obligation or request.
+
+We do not sell users' personal data.
+
+---
+
+## 7. Third-Party Services
+
+The application relies on certain external services and libraries to provide its functionality, including:
+
+- Firebase Core.
+- Firebase Cloud Messaging.
+- Secure local-storage services.
+- Image- and file-selection services.
+- Link- or file-opening services when required.
+
+These services are subject to their own privacy policies in addition to this Privacy Policy.
+
+---
+
+## 8. Data Retention and Deletion
+
+Data is retained for as long as necessary to provide the service or meet operational or legal requirements.
+
+The National ID is retained while the account remains active or for as long as required to associate donation, sponsorship, receipt, and request records. It is then deleted or its processing is restricted when the purpose has ended, unless applicable laws require certain records to be retained for a longer period.
+
+Users can request account deletion from within the application when the option is available. The account may be retained for up to 30 days before permanent deletion to allow account recovery or the processing of related obligations.
+
+After the deletion period expires or the request has been fully processed, data is deleted or disabled in accordance with the operator's policy and applicable legal requirements.
+
+---
+
+## 9. Data Protection
+
+We take appropriate measures to protect user data, including:
+
+- Using secure connections when exchanging data with the server.
+- Storing session data and tokens securely on the device when necessary.
+- Restricting data access according to permissions.
+- Using authentication and session-control systems.
+
+However, no electronic transmission or storage method is completely secure, and absolute security cannot be guaranteed.
+
+---
+
+## 10. User Rights
+
+Subject to applicable laws, users may request to:
+
+- Access their data.
+- Update their data.
+- Delete their account.
+- Disable notifications through their device settings.
+- Contact technical support regarding privacy-related questions.
+
+Before creating an account, the application displays a link to this Privacy Policy and asks the user to confirm that they have read and accepted it. Users may choose not to create an account and may continue browsing publicly available content as guests without providing a National ID.
+
+---
+
+## 11. Children's Privacy
+
+The application may provide services relating to orphans and beneficiaries registered with charitable organizations. This data is used only to manage the services, sponsorships, and requests provided through the application and according to the operator's authorized access.
+
+OZWA handles the data of minors and beneficiaries in accordance with applicable laws and requirements and only for the purposes of providing sponsorship- and request-related services.
+
+---
+
+## 12. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time when the application's operation changes, new features are introduced, or legal requirements need to be met.
+
+The last-updated date will be revised whenever a new version of this Privacy Policy is published.
+
+---
+
+## 13. Contact Us
+
+For questions about this Privacy Policy or requests relating to data or account deletion, please contact us through:
+
+- Owner: OZWA
+- Email: info@ozwa.sa
+- Support URL: https://ozwa.modeem.org.sa/contact
