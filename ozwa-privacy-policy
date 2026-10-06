@@ -1,6 +1,6 @@
 # OZWA App Privacy Policy
 
-Last updated: September 24, 2026
+Last updated: October 5, 2026
 
 This Privacy Policy explains how personal data is collected, used, and protected when using the **OZWA** application.
 
@@ -23,8 +23,8 @@ The application may collect or process the following data depending on the accou
 ### Account Data
 
 - Name.
-- National ID number.
-- Mobile number.
+- National ID number, when required for a beneficiary account or optionally provided by a sponsor.
+- Mobile number, which is required for registered accounts and used as the primary sign-in identifier.
 - Email address.
 - Password, processed securely through the authentication systems.
 - Account type: sponsor or orphan.
@@ -32,11 +32,11 @@ The application may collect or process the following data depending on the accou
 
 ### National ID and the Purpose of Its Collection
 
-The National ID is a required field when creating a registered account in OZWA. It is collected directly from the user only for purposes connected to the service, as follows:
+The National ID is required for orphan or beneficiary registration and optional for sponsor or donor accounts. When provided, it is collected directly from the user only for purposes connected to the service, as follows:
 
-- **For a sponsor or donor account:** It is used to uniquely distinguish the account, reduce duplicate or incorrect registrations and accounts, and associate contributions, donations, sponsorships, receipts, reports, and account history with the correct person.
-- **For an orphan or beneficiary account:** It is used to distinguish the beneficiary record, reduce duplicate requests, and associate the account with registration requests, sponsorships, and reports reviewed by the relevant organization.
-- The National ID is also used as an account sign-in identifier according to the authentication mechanism implemented in the application.
+- **For a sponsor or donor account:** Providing a National ID is optional. If provided, it is used to distinguish the account and associate its contributions, donations, sponsorships, receipts, reports, and history with the correct person.
+- **For an orphan or beneficiary account:** Providing a National ID is required to distinguish the beneficiary record, reduce duplicate requests, and associate the account with registration requests, sponsorships, and reports reviewed by the relevant organization.
+- The mobile number is required for registered accounts and is the primary identifier used to sign in through the application.
 
 The National ID is not used for advertising, tracking, or marketing, and it is not sold to any third party. The application does not claim to perform government identity verification through Absher or Nafath unless an official integration with an approved digital identity service is implemented.
 
@@ -160,7 +160,7 @@ These services are subject to their own privacy policies in addition to this Pri
 
 Data is retained for as long as necessary to provide the service or meet operational or legal requirements.
 
-The National ID is retained while the account remains active or for as long as required to associate donation, sponsorship, receipt, and request records. It is then deleted or its processing is restricted when the purpose has ended, unless applicable laws require certain records to be retained for a longer period.
+When a National ID is required or voluntarily provided, it is retained while the account remains active or for as long as required to associate donation, sponsorship, receipt, and request records. It is then deleted or its processing is restricted when the purpose has ended, unless applicable laws require certain records to be retained for a longer period.
 
 Users can request account deletion from within the application when the option is available. The account may be retained for up to 30 days before permanent deletion to allow account recovery or the processing of related obligations.
 
@@ -223,7 +223,7 @@ For questions about this Privacy Policy or requests relating to data or account 
 
 # سياسة الخصوصية لتطبيق عزوة
 
-تاريخ آخر تحديث: 24 سبتمبر 2026
+تاريخ آخر تحديث: 5 أكتوبر 2026
 
 توضح سياسة الخصوصية هذه كيفية جمع واستخدام وحماية البيانات عند استخدام تطبيق **عزوة**.
 
@@ -246,8 +246,8 @@ For questions about this Privacy Policy or requests relating to data or account 
 ### بيانات الحساب
 
 - الاسم.
-- رقم الهوية الوطنية.
-- رقم الجوال.
+- رقم الهوية الوطنية عند إلزاميته لحساب المستفيد أو عند إدخاله اختياريًا من الكافل.
+- رقم الجوال، وهو إلزامي للحسابات المسجلة ويُستخدم كمعرّف أساسي لتسجيل الدخول.
 - البريد الإلكتروني.
 - كلمة المرور بشكل آمن عبر أنظمة المصادقة.
 - نوع الحساب: كافل أو يتيم.
@@ -255,11 +255,11 @@ For questions about this Privacy Policy or requests relating to data or account 
 
 ### رقم الهوية الوطنية والغرض من جمعه
 
-يُعد رقم الهوية الوطنية حقلًا إلزاميًا عند إنشاء حساب مسجل في تطبيق عزوة، ويُجمع مباشرة من المستخدم للأغراض المرتبطة بالخدمة فقط، وذلك على النحو التالي:
+يُعد رقم الهوية الوطنية إلزاميًا لتسجيل اليتيم أو المستفيد، واختياريًا لحساب الكافل أو المتبرع. وعند إدخاله، يُجمع مباشرة من المستخدم للأغراض المرتبطة بالخدمة فقط، وذلك على النحو التالي:
 
-- **لحساب الكافل أو المتبرع:** يُستخدم لتمييز الحساب بصورة فريدة، والحد من التسجيلات والحسابات المكررة أو غير الصحيحة، وربط المساهمات والتبرعات والكفالات والإيصالات والتقارير وسجل الحساب بالشخص الصحيح.
-- **لحساب اليتيم أو المستفيد:** يُستخدم لتمييز سجل المستفيد، والحد من الطلبات المكررة، وربط الحساب بطلبات التسجيل والكفالات والتقارير التي تراجعها الجهة المختصة.
-- يُستخدم رقم الهوية أيضًا كمعرّف لتسجيل الدخول إلى الحساب وفق آلية المصادقة المعتمدة في التطبيق.
+- **لحساب الكافل أو المتبرع:** إدخال رقم الهوية اختياري، وإذا تم إدخاله فيُستخدم لتمييز الحساب وربط المساهمات والتبرعات والكفالات والإيصالات والتقارير وسجل الحساب بالشخص الصحيح.
+- **لحساب اليتيم أو المستفيد:** إدخال رقم الهوية إلزامي لتمييز سجل المستفيد، والحد من الطلبات المكررة، وربط الحساب بطلبات التسجيل والكفالات والتقارير التي تراجعها الجهة المختصة.
+- رقم الجوال إلزامي للحسابات المسجلة، وهو المعرّف الأساسي المستخدم لتسجيل الدخول من خلال التطبيق.
 
 لا يُستخدم رقم الهوية الوطنية لأغراض الإعلانات أو التتبع أو التسويق، ولا يتم بيعه لأي طرف ثالث. ولا يدّعي التطبيق إجراء تحقق حكومي عبر أبشر أو نفاذ ما لم يتم تفعيل تكامل رسمي مع إحدى خدمات الهوية الرقمية المعتمدة.
 
@@ -383,7 +383,7 @@ For questions about this Privacy Policy or requests relating to data or account 
 
 يتم الاحتفاظ بالبيانات طالما كان ذلك ضروريًا لتقديم الخدمة أو الالتزام بالمتطلبات التشغيلية أو النظامية.
 
-يتم الاحتفاظ برقم الهوية الوطنية طوال فترة نشاط الحساب أو طوال المدة اللازمة لربط سجلات التبرعات والكفالات والإيصالات والطلبات، ثم يُحذف أو تُقيّد معالجته عند انتهاء الغرض، ما لم تتطلب الأنظمة الاحتفاظ ببعض السجلات لمدة أطول.
+عندما يكون رقم الهوية إلزاميًا أو يقدمه المستخدم اختياريًا، يتم الاحتفاظ به طوال فترة نشاط الحساب أو طوال المدة اللازمة لربط سجلات التبرعات والكفالات والإيصالات والطلبات، ثم يُحذف أو تُقيّد معالجته عند انتهاء الغرض، ما لم تتطلب الأنظمة الاحتفاظ ببعض السجلات لمدة أطول.
 
 يمكن للمستخدم طلب حذف الحساب من داخل التطبيق عند توفر الخيار. وقد يتم الاحتفاظ بالحساب لمدة تصل إلى 30 يومًا قبل الحذف النهائي للسماح باسترجاع الحساب أو معالجة أي التزامات مرتبطة به.
 
